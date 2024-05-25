@@ -5,6 +5,7 @@ Este repositorio contiene ejemplos y ejercicios relacionados con el uso de Fragm
 ## Desarrollado por:
 
 - Cayo Cayo, Fiorella Pilar
+- Huaman Apaza, Nelson Aluyis
 - Huayllani Diaz, Raul
 
 ## Docente:
