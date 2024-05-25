@@ -1,6 +1,6 @@
 # Activity Fragments
 
-Este repositorio contiene ejemplos y ejercicios relacionados con el uso de Fragments en Android dentro del contexto de Activities.
+Este repositorio contiene un ejemplo del uso de Fragments en Android con 2 botones que se relacionan cada una con un diferente Fragment.
 
 ## Desarrollado por:
 
